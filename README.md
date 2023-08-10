@@ -2,7 +2,7 @@
 # This repository contains Rikkes useful scripts for plotting VAMAS files, and for carrying out calculations related to cluster source depositions
 # These are MATLAB files and a Jypyter Notebook
 
-### File overview:
+# File overview:
 
 # The "OmicronCalculations.ipynb" Jypiter Notebook is my simple script for quick calculations of nanoparticle sizes, masses, and coverages etc in the lab, for when you want to know how long your deposition is going to take, etc. See more notes about how to approach these calculations in Appendix A of my PhD Thesis.
 
