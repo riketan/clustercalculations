@@ -1,6 +1,6 @@
 ### clustercalculations
-### This repository contains Rikkes useful scripts for plotting VAMAS files, and for carrying out calculations related to cluster source depositions
-### These are MATLAB files and a Jypyter Notebook
+This repository contains Rikkes useful scripts for plotting VAMAS files, and for carrying out calculations related to cluster source depositions
+These are MATLAB files and a Jypyter Notebook
 
 ### File overview:
 
